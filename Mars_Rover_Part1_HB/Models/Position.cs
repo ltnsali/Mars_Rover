@@ -17,7 +17,7 @@ namespace Mars_Rover_Part1_HB.Models
             this.plateu = plateu;
         }
 
-        internal void Turn(Move move)
+        public void Turn(Move move)
         {
             if (Move.M == move)
             {

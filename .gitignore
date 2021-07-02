@@ -4,3 +4,8 @@
 
 /Mars_Rover_Part1_HB/bin/Debug
 /Mars_Rover_Part1_HB/obj/Debug
+/Mars_Rover_Unit_Test/bin/Debug
+/Mars_Rover_Unit_Test/obj
+/.vs
+/Mars_Rover_Part1_HB/obj/Release
+/packages
